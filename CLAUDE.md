@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to MongoDB. Provides runners for documen
 
 **GitHub**: https://github.com/LegionIO/lex-mongodb
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
